@@ -1,6 +1,6 @@
 <h1>Hello 👋, I'm Praful Shahane</h1>
  <hr/>
--> I’m currently Working in TCS(Tata Consultancy Services) as Java Developer.
+-> I’m currently Working in TCS(Tata Consultancy Services) as  <b>Java Developer.</b>
 
 <h2>Currently I am working  with....</h2>
 <b>->Core Java</b> <br/>
